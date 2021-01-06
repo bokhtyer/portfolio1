@@ -682,6 +682,8 @@ p{
 	border-radius: 0px;
 	background: #eee;
 	transition: all .3s ease-in-out;
+	transition: all .4s ease-in-out;
+	border: 1px solid #fff;
 }
 .contact-full-form form input[type="text"]:focus, .contact-full-form form input[type="email"]:focus {
 	background: #fff;
@@ -698,6 +700,8 @@ p{
 	background: #eee;
 	transition: all .3s ease-in-out;
 	height: 200px;
+	transition: all .4s ease-in-out;
+	border: 1px solid #fff;
 }
 .contact-full-form form textarea:focus {
 	background: #fff;
